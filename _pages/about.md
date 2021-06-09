@@ -25,8 +25,8 @@ I am interested in broader topics in machine learning and computer vision. Curre
   <br />Eighth International Conference on Learning Representations (ICLR 2020)
   <br />[[code](https://github.com/TransEmbedBA/TREMBA)]
 - [**Enhancing CNN Incremental Learning Capability with an Expanded Network**](https://ieeexplore.ieee.org/abstract/document/8486457)
-  <br />Shanshan Cai, Zhuwei Xu, **Zhichao Huang**, Yueru Chen, C.-C. Jay Kuo
-  <br />2018 IEEE International Conference on Multimedia and Expo (ICME 2018)
+  <br />Shanshan Cai\*, Zhuwei Xu\*, **Zhichao Huang**\*, Yueru Chen, C.-C. Jay Kuo
+  <br />2018 IEEE International Conference on Multimedia and Expo (ICME 2018) (*\*equal contribution*)
 
 ## Preprints
 - [**Hessian-aware zeroth-order optimization for black-box adversarial attack**](https://arxiv.org/pdf/1812.11377)
