@@ -24,13 +24,14 @@ I am interested in broader topics in machine learning and computer vision. Curre
 - [**Black-box adversarial attack with transferable model-based embedding**](https://openreview.net/pdf?id=SJxhNTNYwB)<br />**Zhichao Huang**, Tong Zhang
   <br />Eighth International Conference on Learning Representations (ICLR 2020)
   <br />[[code](https://github.com/TransEmbedBA/TREMBA)]
+- [**Hessian-aware zeroth-order optimization for black-box adversarial attack**](https://arxiv.org/pdf/1812.11377)
+  <br />Haishan Ye, **Zhichao Huang**, Cong Fang, Chris Junchi Li, Tong Zhang
+  <br />NeurIPS Workshop on Beyond First Order Methods in ML, 2019
 - [**Enhancing CNN Incremental Learning Capability with an Expanded Network**](https://ieeexplore.ieee.org/abstract/document/8486457)
   <br />Shanshan Cai\*, Zhuwei Xu\*, **Zhichao Huang**\*, Yueru Chen, C.-C. Jay Kuo
   <br />2018 IEEE International Conference on Multimedia and Expo (ICME 2018) (*\*equal contribution*)
 
 ## Preprints
-- [**Hessian-aware zeroth-order optimization for black-box adversarial attack**](https://arxiv.org/pdf/1812.11377)
-  <br />Haishan Ye, **Zhichao Huang**, Cong Fang, Chris Junchi Li, Tong Zhang
 - [**CorrAttack: Black-box Adversarial Attack with Structured Search**](https://arxiv.org/pdf/2010.01250)
   <br />**Zhichao Huang**\*, Yaowei Huang\*, Tong Zhang  (*\*equal contribution*)
 
