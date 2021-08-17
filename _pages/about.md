@@ -21,10 +21,10 @@ I am interested in broader topics in machine learning and computer vision. Curre
 - [**Stochastic Recursive Gradient Descent Ascent for Stochastic Nonconvex-Strongly-Concave Minimax Problems**](https://proceedings.neurips.cc/paper/2020/file/ecb47fbb07a752413640f82a945530f8-Paper.pdf)
   <br />Luo Luo, Haishan Ye, **Zhichao Huang**, Tong Zhang
   <br />34th Conference on Neural Information Processing Systems (NeurIPS 2020)
-- [**Black-box adversarial attack with transferable model-based embedding**](https://openreview.net/pdf?id=SJxhNTNYwB)<br />**Zhichao Huang**, Tong Zhang
+- [**Black-box Adversarial Attack with Transferable Model-Based Embedding**](https://openreview.net/pdf?id=SJxhNTNYwB)<br />**Zhichao Huang**, Tong Zhang
   <br />Eighth International Conference on Learning Representations (ICLR 2020)
   <br />[[code](https://github.com/TransEmbedBA/TREMBA)]
-- [**Hessian-aware zeroth-order optimization for black-box adversarial attack**](https://arxiv.org/pdf/1812.11377)
+- [**Hessian-Aware Zeroth-Order Optimization for Black-box Adversarial Attack**](https://arxiv.org/pdf/1812.11377)
   <br />Haishan Ye, **Zhichao Huang**, Cong Fang, Chris Junchi Li, Tong Zhang
   <br />NeurIPS Workshop on Beyond First Order Methods in ML, 2019
 - [**Enhancing CNN Incremental Learning Capability with an Expanded Network**](https://ieeexplore.ieee.org/abstract/document/8486457)
