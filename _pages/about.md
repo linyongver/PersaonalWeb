@@ -14,6 +14,7 @@ I am currently a third-year Ph.D student in [Department of Mathematics](https://
 I am interested in broader topics in machine learning and computer vision. Currently, I am working on adversarial examples. 
 
 # Publications
+## Conference Papers
 - [**Few-Shot Human Motion Transfer by Personalized Geometry and Texture Modeling**](https://arxiv.org/pdf/2103.14338)
   <br />**Zhichao Huang**, Xintong Han, Jia Xu, Tong Zhang
   <br />2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2021)
@@ -56,10 +57,13 @@ I am interested in broader topics in machine learning and computer vision. Curre
 # Teaching 
 - MATH 1014 - Calculus II (Spring 2019)
 - MATH 1013 - Calculus IB (Fall 2019)
-- MATH 2011 - Introduction to Multivariable Calculus (Spring 2020)
-- MATH 2111 - Matrix Algebra and Applications (Fall 2020)
+- MATH 2011 - Introduction to Multivariable Calculus (Spring 2020, Spring 2021)
+- MATH 2111 - Matrix Algebra and Applications (Fall 2020, Fall 2021)
 - MATH 2011 - Introduction to Multivariable Calculus (Spring 2021)
 
-# Academic Service
+# Awards
+- Best TA Teaching Award, 2020 - 2021
+- HKUST Postgraduate Studentship, 2018-2022
 
-- Reviewer of ICML, NeurIPS and T-PAMI
+# Academic Service
+- Reviewer of ICML, NeurIPS, ICLR, T-PAMI and IJCV
