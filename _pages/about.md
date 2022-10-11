@@ -9,12 +9,15 @@ redirect_from:
 ---
 
 # About Me
-I am currently a third-year Ph.D student in [Department of Mathematics](https://www.math.hkust.edu.hk), [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk), supervised by [Prof. Tong Zhang](http://tongzhang-ml.org) starting from Sep 2018. Before my Ph.D journey, I obtained my Bachelor degree in [Electronic Engineering](http://www.ee.tsinghua.edu.cn/) from [Tsinghua University](https://www.tsinghua.edu.cn/).
+I am currently a fourth-year Ph.D student in [Department of Mathematics](https://www.math.hkust.edu.hk), [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk), supervised by [Prof. Tong Zhang](http://tongzhang-ml.org) starting from Sep 2018. Before my Ph.D journey, I obtained my Bachelor degree in [Electronic Engineering](http://www.ee.tsinghua.edu.cn/) from [Tsinghua University](https://www.tsinghua.edu.cn/).
 
-I am interested in broader topics in machine learning and computer vision. Currently, I am working on adversarial examples. 
+I am interested in broader topics in machine learning and computer vision. Currently, I am working on adversarial examples.
 
 # Publications
-## Conference Papers
+- [**Fast Adversarial Training with Adaptive Step Size**](https://arxiv.org/pdf/2206.02417)
+  <br /> **Zhichao Huang**, Yanbo Fan, Chen Liu, Weizhong Zhang, Yong Zhang, Mathieu Salzmann, Sabine Süsstrunk, Jue Wang
+- [**On the Impact of Hard Adversarial Instances on Overfitting in Adversarial Training**](https://arxiv.org/pdf/2112.07324.pdf)
+  <br />Chen Liu, **Zhichao Huang**, Mathieu Salzmann, Tong Zhang, Sabine Süsstrunk
 - [**Few-Shot Human Motion Transfer by Personalized Geometry and Texture Modeling**](https://arxiv.org/pdf/2103.14338)
   <br />**Zhichao Huang**, Xintong Han, Jia Xu, Tong Zhang
   <br />2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2021)
@@ -22,6 +25,8 @@ I am interested in broader topics in machine learning and computer vision. Curre
 - [**Stochastic Recursive Gradient Descent Ascent for Stochastic Nonconvex-Strongly-Concave Minimax Problems**](https://proceedings.neurips.cc/paper/2020/file/ecb47fbb07a752413640f82a945530f8-Paper.pdf)
   <br />Luo Luo, Haishan Ye, **Zhichao Huang**, Tong Zhang
   <br />34th Conference on Neural Information Processing Systems (NeurIPS 2020)
+- [**CorrAttack: Black-box Adversarial Attack with Structured Search**](https://arxiv.org/pdf/2010.01250)
+  <br />**Zhichao Huang**\*, Yaowei Huang\*, Tong Zhang  (*\*equal contribution*)
 - [**Black-box Adversarial Attack with Transferable Model-Based Embedding**](https://openreview.net/pdf?id=SJxhNTNYwB)<br />**Zhichao Huang**, Tong Zhang
   <br />Eighth International Conference on Learning Representations (ICLR 2020)
   <br />[[code](https://github.com/TransEmbedBA/TREMBA)]
@@ -32,15 +37,11 @@ I am interested in broader topics in machine learning and computer vision. Curre
   <br />Shanshan Cai\*, Zhuwei Xu\*, **Zhichao Huang**\*, Yueru Chen, C.-C. Jay Kuo
   <br />2018 IEEE International Conference on Multimedia and Expo (ICME 2018) (*\*equal contribution*)
 
-## Preprints
-- [**CorrAttack: Black-box Adversarial Attack with Structured Search**](https://arxiv.org/pdf/2010.01250)
-  <br />**Zhichao Huang**\*, Yaowei Huang\*, Tong Zhang  (*\*equal contribution*)
-
 # Experiences
 - **Research Intern, Tencent AI Lab**, *Shenzhen, China*
   <br />**Topic: Adversarial Examples**
   <br />Mentor: Yanbo Fan
-  <br />*Mar 2021 - Present*
+  <br />*Mar 2021 - Nov 2021*
 - **Research Intern, Huya Inc**, *Guangzhou, China*
   <br />**Topic: Human Motion Transfer**
   <br />Mentor: Jia Xu
