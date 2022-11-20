@@ -20,9 +20,14 @@ I have lunched a blog on Invariant Risk Minimization [here](https://zhuanlan.zhi
 - [**ZIN: When and How to Learn Invariance by Environment Inference?**](https://openreview.net/forum?id=pUPFRSxfACD)
   <br /> **Yong Lin**, Shengyu Zhu, Lu Tan, Peng Cui
   <br /> Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS 2022)
-- [**Sparse Invariant Risk Minimization**](https://arxiv.org/pdf/2112.07324.pdf)
-  <br /> Xiao Zhou \*, **Yong Lin**\*, Weizhong Zhang\*, Tong Zhang
-  <br /> International Conference on Machine Learning  (ICML 2022)
+  <br /> [[code](https://github.com/linyongver/ZIN_official)]][[video](https://youtu.be/ZJ15X-sdKSU)]
+- [**Sparse Invariant Risk Minimization**](https://proceedings.mlr.press/v162/zhou22e/zhou22e.pdf)
+  <br /> Xiao Zhou\*, **Yong Lin**\*, Weizhong Zhang\*, Tong Zhang
+  <br /> Proceedings of the 39th International Conference on MachineLearning (ICML 2022)
+- [**Model Agnostic Sample Reweighting for Out-of-Distribution Learning**](https://proceedings.mlr.press/v162/zhou22d/zhou22d.pdf)
+  <br /> Xiao Zhou\*, **Yong Lin**\*, Renjie Pi\*, Weizhong Zhang, Renzhe Xu, Peng Cui, Tong Zhang
+  <br /> Proceedings of the 39th International Conference on MachineLearning (ICML 2022)
+  
 - [**Few-Shot Human Motion Transfer by Personalized Geometry and Texture Modeling**](https://arxiv.org/pdf/2103.14338)
   <br />**Zhichao Huang**, Xintong Han, Jia Xu, Tong Zhang
   <br />2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2021)
