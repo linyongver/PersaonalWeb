@@ -17,8 +17,9 @@ If you are also interested in discussing / cooperating with me on OOD, you can c
 I have lunched a blog on Invariant Risk Minimization [here](https://zhuanlan.zhihu.com/p/567666715) (in Chinese).
 
 # Publications
-- [**Fast Adversarial Training with Adaptive Step Size**](https://arxiv.org/pdf/2206.02417)
-  <br /> **Zhichao Huang**, Yanbo Fan, Chen Liu, Weizhong Zhang, Yong Zhang, Mathieu Salzmann, Sabine Süsstrunk, Jue Wang
+- [**ZIN: When and How to Learn Invariance by Environment Inference?**](https://openreview.net/forum?id=pUPFRSxfACD)
+  <br /> **Yong Lin **, Shengyu Zhu, Lu Tan, Peng Cui
+  <br /> 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2021)
 - [**On the Impact of Hard Adversarial Instances on Overfitting in Adversarial Training**](https://arxiv.org/pdf/2112.07324.pdf)
   <br />Chen Liu, **Zhichao Huang**, Mathieu Salzmann, Tong Zhang, Sabine Süsstrunk
 - [**Few-Shot Human Motion Transfer by Personalized Geometry and Texture Modeling**](https://arxiv.org/pdf/2103.14338)
