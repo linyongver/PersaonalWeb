@@ -18,10 +18,11 @@ I have lunched a blog on Invariant Risk Minimization [here](https://zhuanlan.zhi
 
 # Publications
 - [**ZIN: When and How to Learn Invariance by Environment Inference?**](https://openreview.net/forum?id=pUPFRSxfACD)
-  <br /> **Yong Lin **, Shengyu Zhu, Lu Tan, Peng Cui
-  <br /> 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2021)
-- [**On the Impact of Hard Adversarial Instances on Overfitting in Adversarial Training**](https://arxiv.org/pdf/2112.07324.pdf)
-  <br />Chen Liu, **Zhichao Huang**, Mathieu Salzmann, Tong Zhang, Sabine Süsstrunk
+  <br /> **Yong Lin**, Shengyu Zhu, Lu Tan, Peng Cui
+  <br /> Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS 2022)
+- [**Sparse Invariant Risk Minimization**](https://arxiv.org/pdf/2112.07324.pdf)
+  <br /> Xiao Zhou \*, **Yong Lin**\*, Weizhong Zhang\*, Tong Zhang
+  <br /> International Conference on Machine Learning  (ICML 2022)
 - [**Few-Shot Human Motion Transfer by Personalized Geometry and Texture Modeling**](https://arxiv.org/pdf/2103.14338)
   <br />**Zhichao Huang**, Xintong Han, Jia Xu, Tong Zhang
   <br />2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2021)
