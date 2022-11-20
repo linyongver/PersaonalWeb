@@ -24,7 +24,7 @@ I have lunched a blog on Invariant Risk Minimization [here](https://zhuanlan.zhi
   <br /> **Yong Lin**, Shengyu Zhu, Lu Tan, Peng Cui
   <br /> Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS 2022)
   <br /> [[code](https://github.com/linyongver/ZIN_official)]
-- [**Bayesian Invariant Risk Minimization**](https://proceedings.mlr.press/v162/zhou22d/zhou22d.pdf) <span style="color:blue">some *blue* text</span> (**ORAL**)
+- [**Bayesian Invariant Risk Minimization**](https://proceedings.mlr.press/v162/zhou22d/zhou22d.pdf) (**ORAL**)
   <br /> **Yong Lin**\*, Hanze Dong\*, Hao Wang and Tong Zhang
   <br /> IEEE/CVF Conference on Computer Vision and Pattern Recognition  (CVPR 2022)
   <br /> [[code](https://github.com/linyongver/Bayesian-Invariant-Risk-Minmization)]
@@ -38,6 +38,15 @@ I have lunched a blog on Invariant Risk Minimization [here](https://zhuanlan.zhi
 
 
 ## Before 2021 
+
+
+- [**An Empirical Study of Invariant Risk Minimization on Deep Models**](http://www.gatsby.ucl.ac.uk/~balaji/udl2021/accepted-papers/UDL2021-paper-044.pdf)
+  <br /> **Yong Lin**\*, Qing Lian\* and Tong Zhang
+  <br /> ICML2021 workshop on UDL (Uncertainty & Robustness in Deep Learning)
+  <br /> [[code](https://github.com/IRMBed/IRMBed)]
+- [**Cable sheath loss reduction strategy research based on the coupled linemodel**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7063235)
+  <br /> **Yong Lin**, Zheng Xu
+  <br /> IEEE Transactions On Power Delivery
 
 
 # Experiences
