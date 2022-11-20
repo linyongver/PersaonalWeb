@@ -49,6 +49,15 @@ I have lunched a blog on Invariant Risk Minimization [here](https://zhuanlan.zhi
   <br /> IEEE Transactions On Power Delivery
 
 
+
+
+# Selected Awards
+- National Scholarship  * 3 (1.8%, by China’s Ministry of Education), 2010, 2011 and 2015
+- Hong Kong PhD Fellowship Scheme(HKPFS) Award
+- Outstanding Graduate of Zhejiang Province(2.5%, by Zhejiang Province’s Ministry of Education), 2013
+- Nomination for Zhu Kochen scholarship(0.5%, Highest Student Honor in Zhejiang University), 2013
+- Meritorious Winner, The Mathematical Contest in Modeling(International MCM), 2012
+
 # Experiences
 - **the Hong Kong University of Science and Technology**
   <br />PhD Student
@@ -62,17 +71,3 @@ I have lunched a blog on Invariant Risk Minimization [here](https://zhuanlan.zhi
 - **Zhejiang Univeristy**
   <br />Bachelor of Engineering(Ranking 1/207)
   <br />*2009 - 2013*
-
-# Selected Awards
-- National Scholarship  * 3 (1.8%, by China’s Ministry of Education), 2010, 2011 and 2015
-- Hong Kong PhD Fellowship Scheme(HKPFS) Award
-- Outstanding Graduate of Zhejiang Province(2.5%, by Zhejiang Province’s Ministry of Education), 2013
-- Nomination for Zhu Kochen scholarship(0.5%, Highest Student Honor in Zhejiang University), 2013
-- Meritorious Winner, The Mathematical Contest in Modeling(International MCM), 2012
-
-# Experience
-- 2020-Now, PhD Student, the Hong Kong University of Science and Technology.
-- 2017-2020, Algorithm Expert, Artificial Intelegence Department of Ant Financial, Alibaba.
-- 2016-2017, Quantitive Strategy Investigator, High-Flyer Hedge Fund(One of the most famous Hedge Funds in China)
-- 2013-2016, Master of Engineering, Zhejiang University 
-- 2009-2013, Bachelor of Engineering(Ranking 1/207), Zhejiang Univeristy 
