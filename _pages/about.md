@@ -17,36 +17,28 @@ If you are also interested in discussing / cooperating with me on OOD, you can c
 I have lunched a blog on Invariant Risk Minimization [here](https://zhuanlan.zhihu.com/p/567666715) (in Chinese).
 
 # Publications
+(*\*equal contribution*)
+
 ## 2022
 - [**ZIN: When and How to Learn Invariance by Environment Inference?**](https://openreview.net/forum?id=pUPFRSxfACD)
   <br /> **Yong Lin**, Shengyu Zhu, Lu Tan, Peng Cui
   <br /> Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS 2022)
-  <br /> [[code](https://github.com/linyongver/ZIN_official)]][[video](https://youtu.be/ZJ15X-sdKSU)]
+  <br /> [[code](https://github.com/linyongver/ZIN_official)]
+- [**Bayesian Invariant Risk Minimization**](https://proceedings.mlr.press/v162/zhou22d/zhou22d.pdf) <span style="color:blue">some *blue* text</span> (**ORAL**)
+  <br /> **Yong Lin**\*, Hanze Dong\*, Hao Wang and Tong Zhang
+  <br /> IEEE/CVF Conference on Computer Vision and Pattern Recognition  (CVPR 2022)
+  <br /> [[code](https://github.com/linyongver/Bayesian-Invariant-Risk-Minmization)]
 - [**Sparse Invariant Risk Minimization**](https://proceedings.mlr.press/v162/zhou22e/zhou22e.pdf)
   <br /> Xiao Zhou\*, **Yong Lin**\*, Weizhong Zhang\*, Tong Zhang
   <br /> Proceedings of the 39th International Conference on MachineLearning (ICML 2022)
 - [**Model Agnostic Sample Reweighting for Out-of-Distribution Learning**](https://proceedings.mlr.press/v162/zhou22d/zhou22d.pdf)
   <br /> Xiao Zhou\*, **Yong Lin**\*, Renjie Pi\*, Weizhong Zhang, Renzhe Xu, Peng Cui, Tong Zhang
   <br /> Proceedings of the 39th International Conference on MachineLearning (ICML 2022)
-  
-- [**Few-Shot Human Motion Transfer by Personalized Geometry and Texture Modeling**](https://arxiv.org/pdf/2103.14338)
-  <br />**Zhichao Huang**, Xintong Han, Jia Xu, Tong Zhang
-  <br />2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2021)
-  <br />[[code](https://github.com/HuangZhiChao95/FewShotMotionTransfer)][[video](https://youtu.be/ZJ15X-sdKSU)]
-- [**Stochastic Recursive Gradient Descent Ascent for Stochastic Nonconvex-Strongly-Concave Minimax Problems**](https://proceedings.neurips.cc/paper/2020/file/ecb47fbb07a752413640f82a945530f8-Paper.pdf)
-  <br />Luo Luo, Haishan Ye, **Zhichao Huang**, Tong Zhang
-  <br />34th Conference on Neural Information Processing Systems (NeurIPS 2020)
-- [**CorrAttack: Black-box Adversarial Attack with Structured Search**](https://arxiv.org/pdf/2010.01250)
-  <br />**Zhichao Huang**\*, Yaowei Huang\*, Tong Zhang  (*\*equal contribution*)
-- [**Black-box Adversarial Attack with Transferable Model-Based Embedding**](https://openreview.net/pdf?id=SJxhNTNYwB)<br />**Zhichao Huang**, Tong Zhang
-  <br />Eighth International Conference on Learning Representations (ICLR 2020)
-  <br />[[code](https://github.com/TransEmbedBA/TREMBA)]
-- [**Hessian-Aware Zeroth-Order Optimization for Black-box Adversarial Attack**](https://arxiv.org/pdf/1812.11377)
-  <br />Haishan Ye, **Zhichao Huang**, Cong Fang, Chris Junchi Li, Tong Zhang
-  <br />NeurIPS Workshop on Beyond First Order Methods in ML, 2019
-- [**Enhancing CNN Incremental Learning Capability with an Expanded Network**](https://ieeexplore.ieee.org/abstract/document/8486457)
-  <br />Shanshan Cai\*, Zhuwei Xu\*, **Zhichao Huang**\*, Yueru Chen, C.-C. Jay Kuo
-  <br />2018 IEEE International Conference on Multimedia and Expo (ICME 2018) (*\*equal contribution*)
+  <br /> [[code](https://github.com/x-zho14/MAPLE)]
+
+
+## Before 2021 
+
 
 # Experiences
 - **Research Intern, Tencent AI Lab**, *Shenzhen, China*
