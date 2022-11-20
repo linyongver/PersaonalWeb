@@ -11,9 +11,9 @@ title                    : "Yong Lin's Homepage"
 title_separator          : ""
 name                     : &name "Yong Lin"
 description              : &description "PhD Candidate in HKUST"
-url                      : "https://www.huangzhichao.net" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "HuangZhichao95/HuangZhiChao95.github.io"
+repository               : 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
