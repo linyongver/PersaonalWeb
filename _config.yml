@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhichao Huang's Homepage"
+title                    : "Yong Lin's Homepage"
 title_separator          : ""
-name                     : &name "Zhichao Huang"
+name                     : &name "Yong Lin"
 description              : &description "PhD Candidate in HKUST"
 url                      : "https://www.huangzhichao.net" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhichao Huang"
+  name             : "Yong Lin"
   avatar           : "profile.png"
   bio              : "PhD Candidate in HKUST"
   location         : 
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=MILCJzAAAAAJ"
-  email            : "huangzhichao95@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=M4g0ZvMAAAAJ&hl=en"
+  email            : "ylindf@connect.ust.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "HuangZhiChao95"
+  github           : "linyongver"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "%E5%BF%97%E8%B6%85-%E9%BB%84-540271152"
+  linkedin         :
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -112,9 +112,9 @@ author:
   twitter          : 
   vine             :
   weibo            :
+  weixin           : linyongver
   xing             :
   youtube          :
-  CV               : "CV.pdf"
 
 
 # Reading Files
