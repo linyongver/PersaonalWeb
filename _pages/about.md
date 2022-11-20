@@ -9,9 +9,12 @@ redirect_from:
 ---
 
 # About Me
-I am currently a fourth-year Ph.D student in [Department of Mathematics](https://www.math.hkust.edu.hk), [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk), supervised by [Prof. Tong Zhang](http://tongzhang-ml.org) starting from Sep 2018. Before my Ph.D journey, I obtained my Bachelor degree in [Electronic Engineering](http://www.ee.tsinghua.edu.cn/) from [Tsinghua University](https://www.tsinghua.edu.cn/).
 
-I am interested in broader topics in machine learning and computer vision. Currently, I am working on adversarial examples.
+I am an CSE PhD sudent in [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk) HKUST, supervised by Professor [Tong Zhang](http://tongzhang-ml.org/). Out of Distribution  (OOD) Generalization , Robustess of Deep Learning and Learning theory are my research interests. 
+
+If you are also interested in discussing / cooperating with me on OOD, you can contact me by Email (ylindf(A)connect.ust.hk {A = @}). 
+
+I have lunched a blog on Invariant Risk Minimization [here](https://zhuanlan.zhihu.com/p/567666715) (in Chinese).
 
 # Publications
 - [**Fast Adversarial Training with Adaptive Step Size**](https://arxiv.org/pdf/2206.02417)
@@ -55,16 +58,16 @@ I am interested in broader topics in machine learning and computer vision. Curre
   <br />Advisor: C.-C. Jay Kuo
   <br />*Jun 2017 - Aug 2017*
 
-# Teaching 
-- MATH 1014 - Calculus II (Spring 2019)
-- MATH 1013 - Calculus IB (Fall 2019)
-- MATH 2011 - Introduction to Multivariable Calculus (Spring 2020, Spring 2021)
-- MATH 2111 - Matrix Algebra and Applications (Fall 2020, Fall 2021)
-- MATH 2011 - Introduction to Multivariable Calculus (Spring 2021)
+# Selected Awards
+- National Scholarship  * 3 (1.8%, by China’s Ministry of Education), 2010, 2011 and 2015
+- Hong Kong PhD Fellowship Scheme(HKPFS) Award
+- Outstanding Graduate of Zhejiang Province(2.5%, by Zhejiang Province’s Ministry of Education), 2013
+- Nomination for Zhu Kochen scholarship(0.5%, Highest Student Honor in Zhejiang University), 2013
+- Meritorious Winner, The Mathematical Contest in Modeling(International MCM), 2012
 
-# Awards
-- Best TA Teaching Award, 2020 - 2021
-- HKUST Postgraduate Studentship, 2018-2022
-
-# Academic Service
-- Reviewer of ICML, NeurIPS, ICLR, T-PAMI and IJCV
+# Experience
+- 2020-Now, PhD Student, the Hong Kong University of Science and Technology.
+- 2017-2020, Algorithm Expert, Artificial Intelegence Department of Ant Financial, Alibaba.
+- 2016-2017, Quantitive Strategy Investigator, High-Flyer Hedge Fund(One of the most famous Hedge Funds in China)
+- 2013-2016, Master of Engineering, Zhejiang University 
+- 2009-2013, Bachelor of Engineering(Ranking 1/207), Zhejiang Univeristy 
