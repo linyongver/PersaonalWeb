@@ -17,6 +17,7 @@ If you are also interested in discussing / cooperating with me on OOD, you can c
 I have lunched a blog on Invariant Risk Minimization [here](https://zhuanlan.zhihu.com/p/567666715) (in Chinese).
 
 # Publications
+## 2022
 - [**ZIN: When and How to Learn Invariance by Environment Inference?**](https://openreview.net/forum?id=pUPFRSxfACD)
   <br /> **Yong Lin**, Shengyu Zhu, Lu Tan, Peng Cui
   <br /> Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS 2022)
