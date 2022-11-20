@@ -50,22 +50,18 @@ I have lunched a blog on Invariant Risk Minimization [here](https://zhuanlan.zhi
 
 
 # Experiences
-- **Research Intern, Tencent AI Lab**, *Shenzhen, China*
-  <br />**Topic: Adversarial Examples**
-  <br />Mentor: Yanbo Fan
-  <br />*Mar 2021 - Nov 2021*
-- **Research Intern, Huya Inc**, *Guangzhou, China*
-  <br />**Topic: Human Motion Transfer**
-  <br />Mentor: Jia Xu
-  <br />*Jun 2019 - Aug 2019*
-- **Research Intern, Sensetime Group Limited**, *Beijing, China*
-  <br />**Topic: Multitask Semantic Segmentation in Autonomous Driving**
-  <br />Mentor: Guangliang Cheng
-  <br />*Dec 2017 - Jun 2018*
-- **Research Assistant, University of Southern California**, *Los Angeles, USA*
-  <br />**Topic: Incremental Learning in CNN**
-  <br />Advisor: C.-C. Jay Kuo
-  <br />*Jun 2017 - Aug 2017*
+- **the Hong Kong University of Science and Technology**
+  <br />PhD Student
+  <br />2020 - Now
+- **AntFinancial, Alibaba**
+  <br />Employee, Data Scientist
+  <br />2017 - 2022
+- **Zhejiang Univeristy**
+  <br />Master of Engineering
+  <br />*2013 - 2016*
+- **Zhejiang Univeristy**
+  <br />Bachelor of Engineering(Ranking 1/207)
+  <br />*2009 - 2013*
 
 # Selected Awards
 - National Scholarship  * 3 (1.8%, by China’s Ministry of Education), 2010, 2011 and 2015
